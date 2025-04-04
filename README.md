@@ -33,3 +33,10 @@
     <td><img src="screenshoot/light_staggered.gif"/></td>
   </tr>
 </table>
+
+<!-- CONTACT -->
+## Contact
+
+Pinankh Patel - pinankhpatel@hotmail.com
+
+Linkedin: https://www.linkedin.com/in/pinankh-patel-19400350/
